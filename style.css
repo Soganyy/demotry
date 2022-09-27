@@ -1,0 +1,26 @@
+table, th, td{
+    /* border: solid; */
+    border-style: solid;
+    border-collapse: collapse;
+    border-width: 1px;
+}
+th, tr{
+    width: 150px;
+    height: 60px;
+    text-align: center;
+}
+.slow:hover{
+
+position: relative;
+left:300px;
+}
+
+th{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#hg{
+    font-weight: bold;
+    font-size: 25px;
+}
