@@ -24,3 +24,7 @@ th{
     font-weight: bold;
     font-size: 25px;
 }
+div{
+    border-style: solid;
+    border-width: 1px;
+}
